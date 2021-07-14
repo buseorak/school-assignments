@@ -28,7 +28,7 @@ public class ArticleFileOperations {
         }
     }
 
-    /* this method takes and Author object as parameter and
+    /* This method takes an Author object as parameter and
        prepares the article data to be written to the output file */
     public static void writeArticleLines(Author theAuthor) {
         for (int articleID : theAuthor.getAuthorArticleIDs()) {
