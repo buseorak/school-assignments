@@ -15,3 +15,6 @@ Programming Language: **Python**
 **BBM104**
 
 Programming Language: **Java**
+
+* [assignment1](https://github.com/buseorak/school-assignments/tree/main/BBM104/assignment1)
+* [assignment2](https://github.com/buseorak/school-assignments/tree/main/BBM104/assignment2)
