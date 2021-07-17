@@ -16,5 +16,5 @@ Programming Language: **Python**
 
 Programming Language: **Java**
 
-* [assignment1](https://github.com/buseorak/school-assignments/tree/main/BBM104/assignment1)
+* [assignment1](https://github.com/buseorak/school-assignments/tree/main/BBM104/assignment1): designing a command-line I/O based small Author-Article system where 5 specific commands can be executed to manipulate the system and the way of storing and displaying data.
 * [assignment2](https://github.com/buseorak/school-assignments/tree/main/BBM104/assignment2)
